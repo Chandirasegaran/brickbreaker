@@ -414,3 +414,4 @@ function showYouLose() {
     gameover.style.display = "block";
     youlose.style.display = "block";
 }
+console.log("created by gopi");
